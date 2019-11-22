@@ -1,10 +1,10 @@
 <template>
   <div id="app">
     <div class="container">
-      <h1>Ana Smartthing</h1>
+      <h1>Ana Garagem</h1>
     </div>
     <div class="container">
-      <h2>Garagem</h2>
+      <h2>Controle</h2>
     </div>
     <div class="container">
       <div class="row">
